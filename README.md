@@ -259,6 +259,10 @@ jupyter notebook Predicting_Employee_Retention_Shubham_Kumar_Singh.ipynb
 to bottom; the notebook is sequential and later cells depend on earlier ones. The figures in
 this README are written to `images/` as the notebook runs.
 
+## License
+
+My code and analysis here are under the [MIT license](LICENSE). The course dataset and the original case-study brief belong to upGrad and IIIT Bangalore and are not covered by it.
+
 ---
 
 **Shubham Kumar Singh**, MSc Artificial Intelligence and Computer Science, Northeastern University London
